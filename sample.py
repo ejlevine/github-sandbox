@@ -1,5 +1,6 @@
 """This is a text file that contains a sample Python script"""
 print ("Hello, Python learners!")
+print ("Are you ready to party?")
 a = 2
 b = 8
 
